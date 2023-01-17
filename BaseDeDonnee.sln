@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BaseDeDonnee", "BaseDeDonnee.csproj", "{6EFB073B-C9D5-4DF1-A339-70120FDCD468}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pompe à essence", "..\Pompe à essence\Pompe à essence.csproj", "{F32A865A-66DC-446C-BF45-78955F00126B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EFB073B-C9D5-4DF1-A339-70120FDCD468}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EFB073B-C9D5-4DF1-A339-70120FDCD468}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EFB073B-C9D5-4DF1-A339-70120FDCD468}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EFB073B-C9D5-4DF1-A339-70120FDCD468}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F32A865A-66DC-446C-BF45-78955F00126B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F32A865A-66DC-446C-BF45-78955F00126B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F32A865A-66DC-446C-BF45-78955F00126B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F32A865A-66DC-446C-BF45-78955F00126B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27159CED-238F-45E2-B0C3-87A6443161ED}
+	EndGlobalSection
+EndGlobal
